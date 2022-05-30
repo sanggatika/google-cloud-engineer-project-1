@@ -10,23 +10,25 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/img/favicon.png" rel="icon">
+  <link href="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">  
+  <link href="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">  
+  <link href="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Icon -->
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -69,7 +71,7 @@
           </div>
         </div>
         <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
-          <img src="assets/img/3076404.png" class="img-fluid animated" alt="">
+          <img src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/img/3076404.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -99,7 +101,7 @@
 
         <div class="row">
           <div class="col-xl-5 col-lg-6 d-flex justify-content-center align-items-stretch pt-2" data-aos="fade-right">
-            <img src="assets/img/sanggatika.png" class="img-fluid animated h-75" alt="">
+            <img src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/img/sanggatika.png" class="img-fluid animated h-75" alt="">
           </div>
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5" data-aos="fade-left">
@@ -252,15 +254,15 @@
   <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/aos/aos.js"></script>
+  <script src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="https://storage.googleapis.com/sanggatika-storage-2112/Submision-Project1/PersonalInformation/js/main.js"></script>
 
 </body>
 
